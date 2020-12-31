@@ -536,13 +536,6 @@ var questionset = {
       "N3": "Strange smells"
     },
     {
-      "Q": "Which city will host the 2020 Summer Olympics?",
-      "Y": "Tokyo",
-      "N1": "Japan",
-      "N2": "Rio",
-      "N3": "Rome"
-    },
-    {
       "Q": "Which element do all ferrous metal contain?",
       "Y": "Iron",
       "N1": "Tin",
